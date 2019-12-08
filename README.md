@@ -2,4 +2,6 @@
 
 This is a project that uses javascript and HTML to develop a portfolio webstire that is responsive(Bootstrap) and dynnamic and can beused by developers to show their skills
 
+just some updates, on a branch
+This  is bound to cause trouble !
 I hape this isnt much of a problem

@@ -33,6 +33,13 @@ $(document).ready(function() {
 	            items:5
 	        }
 	    }
-	})                                                               
+	});
+
+
+	$('.chart').easyPieChart({
+    	       
+
+
+    });                                                              
 
 });
